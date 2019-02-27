@@ -8,7 +8,7 @@ This sketch library of Dashicons can easily be added to your sketch mockups. The
 To install the Dashicon Sketch Library into your Sketch app:
 1. Download and unzip this file.
 2. Goto `Preferences` -> `Libraries` -> `Add Library` and select this file.
-3. Use the library by going to `Insert` -> `dashicons` and select the icon you'd like.
+3. Use the library by going to `Insert` -> `Dashicons` and select the icon you'd like.
 
 ## Dashicons
 Dashicons is the official icon library for [WordPress](https://developer.wordpress.org/resource/dashicons/).
